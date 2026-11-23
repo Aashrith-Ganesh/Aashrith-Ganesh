@@ -34,8 +34,8 @@
       <!-- Garden Bed Python -->
       <g transform="translate(0, 0)">
         <!-- Bed Container -->
-        <rect width="534" height="135" rx="12" fill="#1b4332" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-        <rect y="100" width="534" height="35" rx="6" fill="rgba(0,0,0,0.35)"/>
+        <rect width="600" height="135" rx="12" fill="#1b4332" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+        <rect y="100" width="600" height="35" rx="6" fill="rgba(0,0,0,0.35)"/>
 
         <!-- Plants inside bed -->
         <g class="sway" style="transform-origin: 40px 105px; animation-delay:-0.0s;">
@@ -53,13 +53,13 @@
 
         <!-- Bed Labels -->
         <text x="16" y="122" class="title" font-size="12px">Python</text>
-        <text x="518" y="122" class="pct" text-anchor="end">67%</text>
+        <text x="584" y="122" class="pct" text-anchor="end">75%</text>
       </g>
       <!-- Garden Bed HTML -->
-      <g transform="translate(546, 0)">
+      <g transform="translate(612, 0)">
         <!-- Bed Container -->
-        <rect width="258" height="135" rx="12" fill="#2c1930" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-        <rect y="100" width="258" height="35" rx="6" fill="rgba(0,0,0,0.35)"/>
+        <rect width="192" height="135" rx="12" fill="#2c1930" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+        <rect y="100" width="192" height="35" rx="6" fill="rgba(0,0,0,0.35)"/>
 
         <!-- Plants inside bed -->
         <g class="sway" style="transform-origin: 40px 105px; animation-delay:-1.2s;">
@@ -77,7 +77,7 @@
 
         <!-- Bed Labels -->
         <text x="16" y="122" class="title" font-size="12px">HTML/Web</text>
-        <text x="242" y="122" class="pct" text-anchor="end">33%</text>
+        <text x="176" y="122" class="pct" text-anchor="end">25%</text>
       </g>
     </g>
   </g>

@@ -33,7 +33,7 @@
       <rect width="258" height="135" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
       <circle cx="28" cy="30" r="12" fill="rgba(94,234,212,0.15)"/>
       <path d="M28 22 L28 38 M22 28 L28 22 L34 28" stroke="#5eead4" stroke-width="2" fill="none" stroke-linecap="round"/>
-      <text x="50" y="34" class="metric-val">12</text>
+      <text x="50" y="34" class="metric-val">13</text>
       <text x="24" y="68" class="metric-lbl">Total Contributions</text>
       <text x="24" y="90" class="card-desc">Reflected as thriving plants across the living horizon</text>
       <text x="24" y="118" class="mono-pill">STATUS: FLOURISHING</text>
@@ -44,7 +44,7 @@
       <rect width="258" height="135" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
       <circle cx="28" cy="30" r="12" fill="rgba(56,189,248,0.15)"/>
       <rect x="23" y="24" width="10" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
-      <text x="50" y="34" class="metric-val">3</text>
+      <text x="50" y="34" class="metric-val">4</text>
       <text x="24" y="68" class="metric-lbl">Active Repositories</text>
       <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems &amp; automation</text>
       <text x="24" y="118" class="mono-pill">PRIMARY: PYTHON</text>
