@@ -1,0 +1,49 @@
+name: Living Scene Atmosphere Update
+
+on:
+  schedule:
+    # Runs every 4 hours to transition sky smoothly across sunrise, daytime, sunset, and night
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-scene.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-scene:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerate Living Scene SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_scene.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if ! git diff --quiet assets/; then
+            git add assets/
+            git commit -m "chore(scene): update living atmosphere and botanical garden [skip ci]"
+            git push
+          else
+            echo "Living scene is already up-to-date. No commit needed."
+          fi

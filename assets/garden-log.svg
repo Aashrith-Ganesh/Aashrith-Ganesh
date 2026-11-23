@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Garden Logbook: Activity & Statistics">
+  <defs>
+    <linearGradient id="log-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#04070e"/>
+    </linearGradient>
+    <clipPath id="log-clip">
+      <rect width="880" height="240" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .metric-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 28px; font-weight: 700; fill: #5eead4; letter-spacing: -0.02em; }
+    .metric-lbl { font-family: ui-monospace, SFMono-Regular, "SF Mono", monospace; font-size: 11px; fill: rgba(255,255,255,0.65); letter-spacing: 0.08em; text-transform: uppercase; }
+    .card-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; font-weight: 600; fill: #ffffff; }
+    .card-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: rgba(255,255,255,0.7); }
+    .mono-pill { font-family: ui-monospace, SFMono-Regular, "SF Mono", monospace; font-size: 10px; fill: #38bdf8; }
+  </style>
+
+  <g clip-path="url(#log-clip)">
+    <rect width="880" height="240" fill="url(#log-bg)"/>
+    <rect width="880" height="240" rx="16" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+
+    <!-- Header -->
+    <g transform="translate(32, 34)">
+      <text x="0" y="0" class="card-title" font-size="14px">BOTANICAL LOGBOOK · VELOCITY & REPOSITORIES</text>
+      <text x="0" y="18" class="metric-lbl" fill="rgba(255,255,255,0.5)">Verified GitHub metrics for Aashrith-Ganesh</text>
+    </g>
+
+    <!-- Metric Columns (3 Cards) -->
+    <!-- Card 1: Contributions -->
+    <g transform="translate(32, 75)">
+      <rect width="258" height="135" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="rgba(94,234,212,0.15)"/>
+      <path d="M28 22 L28 38 M22 28 L28 22 L34 28" stroke="#5eead4" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <text x="50" y="34" class="metric-val">12</text>
+      <text x="24" y="68" class="metric-lbl">Total Contributions</text>
+      <text x="24" y="90" class="card-desc">Reflected as thriving plants across the living horizon</text>
+      <text x="24" y="118" class="mono-pill">STATUS: FLOURISHING</text>
+    </g>
+
+    <!-- Card 2: Public Projects -->
+    <g transform="translate(310, 75)">
+      <rect width="258" height="135" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="rgba(56,189,248,0.15)"/>
+      <rect x="23" y="24" width="10" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+      <text x="50" y="34" class="metric-val">3</text>
+      <text x="24" y="68" class="metric-lbl">Active Repositories</text>
+      <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems & automation</text>
+      <text x="24" y="118" class="mono-pill">PRIMARY: PYTHON</text>
+    </g>
+
+    <!-- Card 3: Focus & Environment -->
+    <g transform="translate(588, 75)">
+      <rect width="258" height="135" rx="12" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="rgba(251,146,60,0.15)"/>
+      <polygon points="28,21 35,35 21,35" fill="none" stroke="#fb923c" stroke-width="1.8"/>
+      <text x="50" y="34" class="metric-val">Bengaluru</text>
+      <text x="24" y="68" class="metric-lbl">Base Location</text>
+      <text x="24" y="90" class="card-desc">Class 11/12 Tech Explorer · The Amaatra Academy</text>
+      <text x="24" y="118" class="mono-pill">TIMEZONE: IST (UTC+5:30)</text>
+    </g>
+  </g>
+</svg>
