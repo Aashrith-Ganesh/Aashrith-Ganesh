@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Living Scene: Bengaluru 28°C CLEAR, 12 contributions this year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Living Scene: Bengaluru 29°C CLEAR, 12 contributions this year">
   <defs>
     <linearGradient id="sky-grad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#10375c"/>
@@ -363,7 +363,7 @@
     <g transform="translate(24, 22)">
       <rect width="365" height="28" rx="14" fill="rgba(0,0,0,0.45)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
       <circle cx="15" cy="14" r="4.5" fill="#10b981" class="glow"/>
-      <text x="28" y="18" class="hud-text">BENGALURU, IN · 28°C · CLEAR · 11:59 AM</text>
+      <text x="28" y="18" class="hud-text">BENGALURU, IN · 29°C · CLEAR · 12:01 PM</text>
     </g>
 
     <!-- Top Right Live Status Pill -->
