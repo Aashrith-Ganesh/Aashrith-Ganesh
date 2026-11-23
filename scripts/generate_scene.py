@@ -61,6 +61,22 @@ def fetch_weather():
             "source": "fallback"
         }
 
+import xml.etree.ElementTree as ET
+
+def write_and_validate_svg(svg_content, output_path):
+    """
+    Validates that the generated SVG is strictly well-formed XML before writing.
+    Catches any unescaped ampersands or malformed tags.
+    """
+    try:
+        ET.fromstring(svg_content)
+    except ET.ParseError as e:
+        print(f"CRITICAL XML SYNTAX ERROR in {output_path}: {e}")
+        raise e
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(svg_content)
+    print(f"Validated & Generated SVG -> {output_path}")
+
 def weather_code_to_condition(code):
     if code == 0:
         return "CLEAR"
@@ -557,7 +573,7 @@ def generate_living_scene_svg(weather, contributions, output_path, forced_phase=
     <!-- Walking Companion (The Silhouette Cat / Wanderer) -->
     <g class="walk">
       <g transform="translate(0, 336)" fill="#111827">
-        <!-- Body & Head -->
+        <!-- Body and Head -->
         <ellipse cx="20" cy="10" rx="14" ry="6.5"/>
         <circle cx="34" cy="5" r="5"/>
         <!-- Ears -->
@@ -579,7 +595,7 @@ def generate_living_scene_svg(weather, contributions, output_path, forced_phase=
     <!-- Atmospheric Grass Base Border -->
     <rect y="414" width="880" height="6" fill="rgba(0,0,0,0.45)"/>
 
-    <!-- Ambient Vignette & Inner Border -->
+    <!-- Ambient Vignette and Inner Border -->
     <rect width="880" height="420" rx="16" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
 
     <!-- Top Status Capsule HUD -->
@@ -605,9 +621,7 @@ def generate_living_scene_svg(weather, contributions, output_path, forced_phase=
   </g>
 </svg>'''
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(svg_content)
-    print(f"Generated Living Scene SVG -> {output_path}")
+    write_and_validate_svg(svg_content, output_path)
 
 def generate_garden_stack_svg(repo_stats, output_path):
     """
@@ -654,7 +668,7 @@ def generate_garden_stack_svg(repo_stats, output_path):
     <!-- Header -->
     <g transform="translate(32, 34)">
       <text x="0" y="0" class="title">BOTANICAL STACK · LANGUAGE DISTRIBUTION BEDS</text>
-      <text x="0" y="20" class="sub">Cultivated across active public & personal software repositories</text>
+      <text x="0" y="20" class="sub">Cultivated across active public &amp; personal software repositories</text>
     </g>
 
     <!-- Terraced Garden Beds -->
@@ -702,9 +716,7 @@ def generate_garden_stack_svg(repo_stats, output_path):
   </g>
 </svg>'''
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(svg)
-    print(f"Generated Garden Stack SVG -> {output_path}")
+    write_and_validate_svg(svg, output_path)
 
 def generate_garden_log_svg(repo_stats, contributions, output_path):
     """
@@ -716,7 +728,7 @@ def generate_garden_log_svg(repo_stats, contributions, output_path):
     repo_count = len(repos)
     stars_count = sum(r["stars"] for r in repos)
 
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Garden Logbook: Activity & Statistics">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Garden Logbook: Activity and Statistics">
   <defs>
     <linearGradient id="log-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0f1d"/>
@@ -741,7 +753,7 @@ def generate_garden_log_svg(repo_stats, contributions, output_path):
 
     <!-- Header -->
     <g transform="translate(32, 34)">
-      <text x="0" y="0" class="card-title" font-size="14px">BOTANICAL LOGBOOK · VELOCITY & REPOSITORIES</text>
+      <text x="0" y="0" class="card-title" font-size="14px">BOTANICAL LOGBOOK · VELOCITY &amp; REPOSITORIES</text>
       <text x="0" y="18" class="metric-lbl" fill="rgba(255,255,255,0.5)">Verified GitHub metrics for Aashrith-Ganesh</text>
     </g>
 
@@ -764,7 +776,7 @@ def generate_garden_log_svg(repo_stats, contributions, output_path):
       <rect x="23" y="24" width="10" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
       <text x="50" y="34" class="metric-val">{repo_count}</text>
       <text x="24" y="68" class="metric-lbl">Active Repositories</text>
-      <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems & automation</text>
+      <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems &amp; automation</text>
       <text x="24" y="118" class="mono-pill">PRIMARY: PYTHON</text>
     </g>
 
@@ -781,9 +793,7 @@ def generate_garden_log_svg(repo_stats, contributions, output_path):
   </g>
 </svg>'''
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(svg)
-    print(f"Generated Garden Log SVG -> {output_path}")
+    write_and_validate_svg(svg, output_path)
 
 def main():
     import argparse

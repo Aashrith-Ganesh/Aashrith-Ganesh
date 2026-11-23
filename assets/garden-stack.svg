@@ -25,7 +25,7 @@
     <!-- Header -->
     <g transform="translate(32, 34)">
       <text x="0" y="0" class="title">BOTANICAL STACK · LANGUAGE DISTRIBUTION BEDS</text>
-      <text x="0" y="20" class="sub">Cultivated across active public & personal software repositories</text>
+      <text x="0" y="20" class="sub">Cultivated across active public &amp; personal software repositories</text>
     </g>
 
     <!-- Terraced Garden Beds -->

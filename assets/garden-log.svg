@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Garden Logbook: Activity & Statistics">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Garden Logbook: Activity and Statistics">
   <defs>
     <linearGradient id="log-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0f1d"/>
@@ -23,7 +23,7 @@
 
     <!-- Header -->
     <g transform="translate(32, 34)">
-      <text x="0" y="0" class="card-title" font-size="14px">BOTANICAL LOGBOOK · VELOCITY & REPOSITORIES</text>
+      <text x="0" y="0" class="card-title" font-size="14px">BOTANICAL LOGBOOK · VELOCITY &amp; REPOSITORIES</text>
       <text x="0" y="18" class="metric-lbl" fill="rgba(255,255,255,0.5)">Verified GitHub metrics for Aashrith-Ganesh</text>
     </g>
 
@@ -46,7 +46,7 @@
       <rect x="23" y="24" width="10" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
       <text x="50" y="34" class="metric-val">3</text>
       <text x="24" y="68" class="metric-lbl">Active Repositories</text>
-      <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems & automation</text>
+      <text x="24" y="90" class="card-desc">Focused on AI intelligence, school systems &amp; automation</text>
       <text x="24" y="118" class="mono-pill">PRIMARY: PYTHON</text>
     </g>
 
