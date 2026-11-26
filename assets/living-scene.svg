@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Living Scene: Bengaluru 25°C OVERCAST, 13 contributions this year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Living Scene: Bengaluru 21°C OVERCAST, 13 contributions this year">
   <defs>
     <linearGradient id="sky-grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1b2838"/>
-<stop offset="50%" stop-color="#2c3e50"/>
-<stop offset="100%" stop-color="#4b6584"/>
+      <stop offset="0%" stop-color="#050811"/>
+<stop offset="40%" stop-color="#0a1122"/>
+<stop offset="75%" stop-color="#101d36"/>
+<stop offset="100%" stop-color="#172948"/>
     </linearGradient>
     <clipPath id="card-clip">
       <rect width="880" height="420" rx="16"/>
@@ -58,30 +59,30 @@
     <rect width="880" height="420" fill="url(#sky-grad)"/>
 
     <!-- Stars (Night / Twilight) -->
-    
+    <circle cx="669" cy="40" r="0.8" fill="#ffffff" opacity="0.71" class="tw" style="animation-delay:-1.06s;"/><circle cx="157" cy="200" r="0.8" fill="#ffffff" opacity="0.67" class="tw" style="animation-delay:-3.58s;"/><circle cx="104" cy="163" r="1.8" fill="#ffffff" opacity="0.32" class="tw" style="animation-delay:-0.47s;"/><circle cx="253" cy="141" r="0.8" fill="#ffffff" opacity="0.61" class="tw" style="animation-delay:-2.89s;"/><circle cx="733" cy="151" r="1.8" fill="#ffffff" opacity="0.42" class="tw" style="animation-delay:-2.4s;"/><circle cx="843" cy="13" r="1.1" fill="#ffffff" opacity="0.68" class="tw" style="animation-delay:-1.43s;"/><circle cx="174" cy="67" r="1.4" fill="#ffffff" opacity="0.36" class="tw" style="animation-delay:-1.58s;"/><circle cx="382" cy="228" r="1.4" fill="#ffffff" opacity="0.63" class="tw" style="animation-delay:-3.25s;"/><circle cx="762" cy="129" r="0.8" fill="#ffffff" opacity="0.84" class="tw" style="animation-delay:-1.58s;"/><circle cx="580" cy="87" r="1.4" fill="#ffffff" opacity="0.62" class="tw" style="animation-delay:-2.85s;"/><circle cx="61" cy="181" r="1.1" fill="#ffffff" opacity="0.73" class="tw" style="animation-delay:-3.94s;"/><circle cx="253" cy="37" r="1.8" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-2.58s;"/><circle cx="388" cy="53" r="1.4" fill="#ffffff" opacity="0.5" class="tw" style="animation-delay:-2.71s;"/><circle cx="733" cy="186" r="0.8" fill="#ffffff" opacity="0.64" class="tw" style="animation-delay:-0.77s;"/><circle cx="761" cy="74" r="1.1" fill="#ffffff" opacity="0.55" class="tw" style="animation-delay:-1.15s;"/><circle cx="670" cy="188" r="1.1" fill="#ffffff" opacity="0.68" class="tw" style="animation-delay:-3.39s;"/><circle cx="809" cy="26" r="1.1" fill="#ffffff" opacity="0.75" class="tw" style="animation-delay:-3.24s;"/><circle cx="425" cy="80" r="0.8" fill="#ffffff" opacity="0.42" class="tw" style="animation-delay:-3.78s;"/><circle cx="750" cy="92" r="1.1" fill="#ffffff" opacity="0.66" class="tw" style="animation-delay:-1.64s;"/><circle cx="673" cy="129" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-1.06s;"/><circle cx="589" cy="149" r="1.4" fill="#ffffff" opacity="0.71" class="tw" style="animation-delay:-1.77s;"/><circle cx="612" cy="114" r="1.4" fill="#ffffff" opacity="0.42" class="tw" style="animation-delay:-3.99s;"/><circle cx="536" cy="138" r="0.8" fill="#ffffff" opacity="0.72" class="tw" style="animation-delay:-3.46s;"/><circle cx="171" cy="172" r="1.1" fill="#ffffff" opacity="0.74" class="tw" style="animation-delay:-1.75s;"/><circle cx="80" cy="110" r="1.8" fill="#ffffff" opacity="0.63" class="tw" style="animation-delay:-1.93s;"/><circle cx="272" cy="153" r="0.8" fill="#ffffff" opacity="0.67" class="tw" style="animation-delay:-0.55s;"/><circle cx="564" cy="204" r="1.4" fill="#ffffff" opacity="0.72" class="tw" style="animation-delay:-1.43s;"/><circle cx="315" cy="123" r="1.1" fill="#ffffff" opacity="0.55" class="tw" style="animation-delay:-3.82s;"/><circle cx="751" cy="79" r="1.1" fill="#ffffff" opacity="0.58" class="tw" style="animation-delay:-0.52s;"/><circle cx="655" cy="88" r="1.1" fill="#ffffff" opacity="0.38" class="tw" style="animation-delay:-3.07s;"/><circle cx="567" cy="211" r="0.8" fill="#ffffff" opacity="0.63" class="tw" style="animation-delay:-2.01s;"/><circle cx="129" cy="104" r="1.4" fill="#ffffff" opacity="0.43" class="tw" style="animation-delay:-1.04s;"/><circle cx="595" cy="32" r="0.8" fill="#ffffff" opacity="0.7" class="tw" style="animation-delay:-3.28s;"/><circle cx="793" cy="148" r="1.1" fill="#ffffff" opacity="0.37" class="tw" style="animation-delay:-1.95s;"/><circle cx="577" cy="54" r="1.4" fill="#ffffff" opacity="0.59" class="tw" style="animation-delay:-2.47s;"/><circle cx="231" cy="150" r="1.1" fill="#ffffff" opacity="0.69" class="tw" style="animation-delay:-1.66s;"/><circle cx="702" cy="178" r="1.4" fill="#ffffff" opacity="0.54" class="tw" style="animation-delay:-2.12s;"/><circle cx="138" cy="75" r="1.1" fill="#ffffff" opacity="0.34" class="tw" style="animation-delay:-0.18s;"/><circle cx="582" cy="70" r="1.1" fill="#ffffff" opacity="0.3" class="tw" style="animation-delay:-2.86s;"/><circle cx="75" cy="70" r="0.8" fill="#ffffff" opacity="0.8" class="tw" style="animation-delay:-3.45s;"/><circle cx="87" cy="143" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-1.99s;"/><circle cx="567" cy="45" r="1.8" fill="#ffffff" opacity="0.43" class="tw" style="animation-delay:-1.94s;"/><circle cx="431" cy="60" r="0.8" fill="#ffffff" opacity="0.35" class="tw" style="animation-delay:-1.78s;"/><circle cx="448" cy="117" r="1.8" fill="#ffffff" opacity="0.78" class="tw" style="animation-delay:-0.31s;"/><circle cx="684" cy="177" r="0.8" fill="#ffffff" opacity="0.33" class="tw" style="animation-delay:-2.94s;"/><circle cx="834" cy="39" r="1.1" fill="#ffffff" opacity="0.41" class="tw" style="animation-delay:-2.19s;"/><circle cx="158" cy="120" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-1.07s;"/><circle cx="92" cy="125" r="0.8" fill="#ffffff" opacity="0.33" class="tw" style="animation-delay:-4.0s;"/><circle cx="30" cy="35" r="1.1" fill="#ffffff" opacity="0.39" class="tw" style="animation-delay:-1.99s;"/><circle cx="233" cy="114" r="0.8" fill="#ffffff" opacity="0.39" class="tw" style="animation-delay:-0.11s;"/><circle cx="414" cy="79" r="1.8" fill="#ffffff" opacity="0.46" class="tw" style="animation-delay:-2.82s;"/><circle cx="763" cy="212" r="1.8" fill="#ffffff" opacity="0.39" class="tw" style="animation-delay:-1.26s;"/><circle cx="74" cy="160" r="0.8" fill="#ffffff" opacity="0.71" class="tw" style="animation-delay:-0.32s;"/><circle cx="613" cy="134" r="1.1" fill="#ffffff" opacity="0.33" class="tw" style="animation-delay:-2.08s;"/><circle cx="205" cy="29" r="0.8" fill="#ffffff" opacity="0.67" class="tw" style="animation-delay:-1.02s;"/><circle cx="137" cy="157" r="1.1" fill="#ffffff" opacity="0.62" class="tw" style="animation-delay:-0.25s;"/><circle cx="98" cy="119" r="1.4" fill="#ffffff" opacity="0.81" class="tw" style="animation-delay:-0.9s;"/><circle cx="748" cy="92" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-0.61s;"/><circle cx="675" cy="88" r="1.8" fill="#ffffff" opacity="0.47" class="tw" style="animation-delay:-3.03s;"/><circle cx="89" cy="14" r="1.8" fill="#ffffff" opacity="0.64" class="tw" style="animation-delay:-2.3s;"/><circle cx="117" cy="30" r="1.1" fill="#ffffff" opacity="0.58" class="tw" style="animation-delay:-0.62s;"/><circle cx="372" cy="29" r="1.1" fill="#ffffff" opacity="0.5" class="tw" style="animation-delay:-0.72s;"/><circle cx="571" cy="192" r="1.4" fill="#ffffff" opacity="0.64" class="tw" style="animation-delay:-3.95s;"/><circle cx="684" cy="147" r="0.8" fill="#ffffff" opacity="0.67" class="tw" style="animation-delay:-2.26s;"/><circle cx="694" cy="38" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-3.57s;"/><circle cx="775" cy="153" r="1.1" fill="#ffffff" opacity="0.45" class="tw" style="animation-delay:-2.46s;"/><circle cx="749" cy="99" r="1.1" fill="#ffffff" opacity="0.68" class="tw" style="animation-delay:-3.43s;"/><circle cx="532" cy="137" r="1.4" fill="#ffffff" opacity="0.8" class="tw" style="animation-delay:-3.4s;"/><circle cx="109" cy="174" r="1.8" fill="#ffffff" opacity="0.76" class="tw" style="animation-delay:-0.27s;"/><circle cx="356" cy="209" r="1.1" fill="#ffffff" opacity="0.65" class="tw" style="animation-delay:-1.12s;"/><circle cx="774" cy="125" r="1.8" fill="#ffffff" opacity="0.61" class="tw" style="animation-delay:-0.54s;"/><circle cx="722" cy="50" r="0.8" fill="#ffffff" opacity="0.76" class="tw" style="animation-delay:-2.37s;"/><circle cx="166" cy="122" r="1.1" fill="#ffffff" opacity="0.32" class="tw" style="animation-delay:-1.52s;"/><circle cx="830" cy="22" r="1.4" fill="#ffffff" opacity="0.42" class="tw" style="animation-delay:-1.07s;"/><circle cx="120" cy="102" r="1.8" fill="#ffffff" opacity="0.84" class="tw" style="animation-delay:-3.02s;"/>
 
     <!-- Sun / Moon -->
     
-        <g>
-          <circle cx="660" cy="95" r="65" fill="#a4b0be" opacity="0.12"/>
-          <circle cx="660" cy="95" r="42" fill="#a4b0be" opacity="0.22"/>
-          <circle cx="660" cy="95" r="22" fill="#e4ebf2"/>
+        <g class="glow">
+          <circle cx="700" cy="90" r="50" fill="#e2e8f0" opacity="0.08"/>
+          <circle cx="700" cy="90" r="30" fill="#e2e8f0" opacity="0.18"/>
+          <path d="M 700 70 A 20 20 0 1 0 718 102 A 17 17 0 1 1 700 70 Z" fill="#f8fafc"/>
         </g>
 
     <!-- Drifting Clouds -->
     
         <g class="drift-slow">
-          <path d="M-80 90 Q -50 70 -20 85 Q 20 65 70 80 Q 110 70 140 90 Q 90 105 -10 100 Q -50 102 -80 90 Z" fill="rgba(255,255,255,0.12)"/>
-          <path d="M420 60 Q 450 40 490 55 Q 540 35 590 50 Q 630 40 660 60 Q 600 75 510 70 Q 460 72 420 60 Z" fill="rgba(255,255,255,0.12)"/>
+          <path d="M-80 90 Q -50 70 -20 85 Q 20 65 70 80 Q 110 70 140 90 Q 90 105 -10 100 Q -50 102 -80 90 Z" fill="rgba(180,200,230,0.06)"/>
+          <path d="M420 60 Q 450 40 490 55 Q 540 35 590 50 Q 630 40 660 60 Q 600 75 510 70 Q 460 72 420 60 Z" fill="rgba(180,200,230,0.06)"/>
         </g>
         <g class="drift-fast">
-          <path d="M220 125 Q 250 110 280 120 Q 320 105 360 118 Q 400 110 420 125 Q 370 138 300 134 Q 260 135 220 125 Z" fill="rgba(255,255,255,0.12)" opacity="0.75"/>
+          <path d="M220 125 Q 250 110 280 120 Q 320 105 360 118 Q 400 110 420 125 Q 370 138 300 134 Q 260 135 220 125 Z" fill="rgba(180,200,230,0.06)" opacity="0.75"/>
         </g>
         
 
     <!-- Background Mountains -->
-    <path d="M0 260 Q 180 185 360 235 T 720 220 Q 800 235 880 250 V 420 H 0 Z" fill="#2a4b56" opacity="0.95"/>
-    <path d="M0 290 Q 220 235 480 280 T 880 270 V 420 H 0 Z" fill="#1f3b43"/>
+    <path d="M0 260 Q 180 185 360 235 T 720 220 Q 800 235 880 250 V 420 H 0 Z" fill="#0c1524" opacity="0.95"/>
+    <path d="M0 290 Q 220 235 480 280 T 880 270 V 420 H 0 Z" fill="#080e18"/>
 
     <!-- Hillside Observatory / Cabin -->
     <g transform="translate(640, 240)">
@@ -91,32 +92,32 @@
       <!-- Chimney -->
       <rect x="44" y="10" width="8" height="18" fill="#3a1d1d"/>
       <!-- Roof -->
-      <polygon points="28,26 62,26 45,8" fill="#9a4435"/>
+      <polygon points="28,26 62,26 45,8" fill="#44211a"/>
       <!-- Wall -->
-      <rect x="30" y="26" width="30" height="24" fill="#e2d2b5"/>
+      <rect x="30" y="26" width="30" height="24" fill="#211a18"/>
       <!-- Cozy Window with Hearth Light -->
-      <rect x="38" y="32" width="14" height="12" rx="1.5" fill="#fefae0" class="glow"/>
-      <line x1="45" y1="32" x2="45" y2="44" stroke="#e2d2b5" stroke-width="1.2"/>
-      <line x1="38" y1="38" x2="52" y2="38" stroke="#e2d2b5" stroke-width="1.2"/>
+      <rect x="38" y="32" width="14" height="12" rx="1.5" fill="#ffc300" class="glow"/>
+      <line x1="45" y1="32" x2="45" y2="44" stroke="#211a18" stroke-width="1.2"/>
+      <line x1="38" y1="38" x2="52" y2="38" stroke="#211a18" stroke-width="1.2"/>
     </g>
 
     <!-- Hillside Trees -->
     <g class="sway-tree" style="transform-origin: 140px 310px;">
       <rect x="137" y="260" width="6" height="45" fill="#2d1e18"/>
-      <polygon points="140,210 120,270 160,270" fill="#2d5a3c"/>
-      <polygon points="140,225 125,275 155,275" fill="#1e3f2a"/>
+      <polygon points="140,210 120,270 160,270" fill="#0d1b14"/>
+      <polygon points="140,225 125,275 155,275" fill="#08120d"/>
     </g>
     <g class="sway-tree" style="transform-origin: 190px 320px; animation-delay:-2.5s;">
       <rect x="187" y="275" width="5" height="38" fill="#2d1e18"/>
-      <polygon points="190,230 174,285 206,285" fill="#2d5a3c"/>
+      <polygon points="190,230 174,285 206,285" fill="#0d1b14"/>
     </g>
 
     <!-- Rain / Precipitation Layer -->
     
 
     <!-- Rolling Foreground Meadow Terraces -->
-    <path d="M0 325 Q 240 295 520 320 T 880 310 V 420 H 0 Z" fill="#2d5a3c"/>
-    <path d="M0 355 Q 360 335 680 350 T 880 345 V 420 H 0 Z" fill="#1e3f2a"/>
+    <path d="M0 325 Q 240 295 520 320 T 880 310 V 420 H 0 Z" fill="#0d1b14"/>
+    <path d="M0 355 Q 360 335 680 350 T 880 345 V 420 H 0 Z" fill="#08120d"/>
 
     <!-- Walking Companion (The Silhouette Cat / Wanderer) -->
     <g class="walk">
@@ -139,226 +140,226 @@
     <g id="contribution-garden">
       
             <g class="sway" style="transform-origin:45.0px 358.0px; animation-delay:-0.0s;">
-              <line x1="45.0" y1="358.0" x2="45.0" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="42.0" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 42.0 350.0)"/>
+              <line x1="45.0" y1="358.0" x2="45.0" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="42.0" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 42.0 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:60.5px 358.0px; animation-delay:-0.19s;">
-              <line x1="60.5" y1="358.0" x2="60.5" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="57.5" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 57.5 350.0)"/>
+              <line x1="60.5" y1="358.0" x2="60.5" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="57.5" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 57.5 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:76.0px 358.0px; animation-delay:-0.38s;">
-              <line x1="76.0" y1="358.0" x2="76.0" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="73.0" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 73.0 350.0)"/>
+              <line x1="76.0" y1="358.0" x2="76.0" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="73.0" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 73.0 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:91.5px 358.0px; animation-delay:-0.57s;">
-              <line x1="91.5" y1="358.0" x2="91.5" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="88.5" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 88.5 350.0)"/>
+              <line x1="91.5" y1="358.0" x2="91.5" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="88.5" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 88.5 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:107.0px 358.0px; animation-delay:-0.76s;">
-              <line x1="107.0" y1="358.0" x2="107.0" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="104.0" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 104.0 350.0)"/>
+              <line x1="107.0" y1="358.0" x2="107.0" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="104.0" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 104.0 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:122.5px 358.0px; animation-delay:-0.95s;">
-              <line x1="122.5" y1="358.0" x2="122.5" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="119.5" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 119.5 350.0)"/>
+              <line x1="122.5" y1="358.0" x2="122.5" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="119.5" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 119.5 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:137.9px 358.0px; animation-delay:-1.14s;">
-              <line x1="137.9" y1="358.0" x2="137.9" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="134.9" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 134.9 350.0)"/>
+              <line x1="137.9" y1="358.0" x2="137.9" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="134.9" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 134.9 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:153.4px 358.0px; animation-delay:-1.33s;">
-              <line x1="153.4" y1="358.0" x2="153.4" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="150.4" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 150.4 350.0)"/>
+              <line x1="153.4" y1="358.0" x2="153.4" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="150.4" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 150.4 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:168.9px 358.0px; animation-delay:-1.52s;">
-              <line x1="168.9" y1="358.0" x2="168.9" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="165.9" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 165.9 350.0)"/>
+              <line x1="168.9" y1="358.0" x2="168.9" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="165.9" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 165.9 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:184.4px 358.0px; animation-delay:-1.71s;">
-              <line x1="184.4" y1="358.0" x2="184.4" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="181.4" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 181.4 350.0)"/>
+              <line x1="184.4" y1="358.0" x2="184.4" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="181.4" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 181.4 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:199.9px 358.0px; animation-delay:-1.9s;">
-              <line x1="199.9" y1="358.0" x2="199.9" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="196.9" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 196.9 350.0)"/>
+              <line x1="199.9" y1="358.0" x2="199.9" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="196.9" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 196.9 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:215.4px 358.0px; animation-delay:-2.09s;">
-              <line x1="215.4" y1="358.0" x2="215.4" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="212.4" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 212.4 350.0)"/>
+              <line x1="215.4" y1="358.0" x2="215.4" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="212.4" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 212.4 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:230.9px 358.0px; animation-delay:-2.28s;">
-              <line x1="230.9" y1="358.0" x2="230.9" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="227.9" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 227.9 350.0)"/>
+              <line x1="230.9" y1="358.0" x2="230.9" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="227.9" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 227.9 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:246.4px 358.0px; animation-delay:-2.47s;">
-              <line x1="246.4" y1="358.0" x2="246.4" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="243.4" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 243.4 350.0)"/>
+              <line x1="246.4" y1="358.0" x2="246.4" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="243.4" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 243.4 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:261.9px 358.0px; animation-delay:-2.66s;">
-              <line x1="261.9" y1="358.0" x2="261.9" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="258.9" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 258.9 350.0)"/>
+              <line x1="261.9" y1="358.0" x2="261.9" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="258.9" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 258.9 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:277.4px 358.0px; animation-delay:-2.85s;">
-              <line x1="277.4" y1="358.0" x2="277.4" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="274.4" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 274.4 350.0)"/>
+              <line x1="277.4" y1="358.0" x2="277.4" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="274.4" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 274.4 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:292.8px 358.0px; animation-delay:-3.04s;">
-              <line x1="292.8" y1="358.0" x2="292.8" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="289.8" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 289.8 350.0)"/>
+              <line x1="292.8" y1="358.0" x2="292.8" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="289.8" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 289.8 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:308.3px 358.0px; animation-delay:-3.23s;">
-              <line x1="308.3" y1="358.0" x2="308.3" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="305.3" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 305.3 350.0)"/>
+              <line x1="308.3" y1="358.0" x2="308.3" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="305.3" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 305.3 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:323.8px 358.0px; animation-delay:-3.42s;">
-              <line x1="323.8" y1="358.0" x2="323.8" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="320.8" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 320.8 350.0)"/>
+              <line x1="323.8" y1="358.0" x2="323.8" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="320.8" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 320.8 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:339.3px 358.0px; animation-delay:-3.61s;">
-              <line x1="339.3" y1="358.0" x2="339.3" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="336.3" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 336.3 350.0)"/>
+              <line x1="339.3" y1="358.0" x2="339.3" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="336.3" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 336.3 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:354.8px 358.0px; animation-delay:-3.8s;">
-              <line x1="354.8" y1="358.0" x2="354.8" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="351.8" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 351.8 350.0)"/>
+              <line x1="354.8" y1="358.0" x2="354.8" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="351.8" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 351.8 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:370.3px 358.0px; animation-delay:-3.99s;">
-              <line x1="370.3" y1="358.0" x2="370.3" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="367.3" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 367.3 350.0)"/>
+              <line x1="370.3" y1="358.0" x2="370.3" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="367.3" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 367.3 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:385.8px 358.0px; animation-delay:-0.18s;">
-              <line x1="385.8" y1="358.0" x2="385.8" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="382.8" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 382.8 350.0)"/>
+              <line x1="385.8" y1="358.0" x2="385.8" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="382.8" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 382.8 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:401.3px 358.0px; animation-delay:-0.37s;">
-              <line x1="401.3" y1="358.0" x2="401.3" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="398.3" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 398.3 350.0)"/>
+              <line x1="401.3" y1="358.0" x2="401.3" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="398.3" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 398.3 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:416.8px 358.0px; animation-delay:-0.56s;">
-              <line x1="416.8" y1="358.0" x2="416.8" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="413.8" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 413.8 350.0)"/>
+              <line x1="416.8" y1="358.0" x2="416.8" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="413.8" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 413.8 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:432.3px 358.0px; animation-delay:-0.75s;">
-              <line x1="432.3" y1="358.0" x2="432.3" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="429.3" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 429.3 350.0)"/>
+              <line x1="432.3" y1="358.0" x2="432.3" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="429.3" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 429.3 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:447.7px 358.0px; animation-delay:-0.94s;">
-              <line x1="447.7" y1="358.0" x2="447.7" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="444.7" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 444.7 350.0)"/>
+              <line x1="447.7" y1="358.0" x2="447.7" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="444.7" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 444.7 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:463.2px 358.0px; animation-delay:-1.13s;">
-              <line x1="463.2" y1="358.0" x2="463.2" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="460.2" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 460.2 350.0)"/>
+              <line x1="463.2" y1="358.0" x2="463.2" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="460.2" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 460.2 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:478.7px 358.0px; animation-delay:-1.32s;">
-              <line x1="478.7" y1="358.0" x2="478.7" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="475.7" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 475.7 350.0)"/>
+              <line x1="478.7" y1="358.0" x2="478.7" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="475.7" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 475.7 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:494.2px 358.0px; animation-delay:-1.51s;">
-              <line x1="494.2" y1="358.0" x2="494.2" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="491.2" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 491.2 350.0)"/>
+              <line x1="494.2" y1="358.0" x2="494.2" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="491.2" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 491.2 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:509.7px 358.0px; animation-delay:-1.7s;">
-              <line x1="509.7" y1="358.0" x2="509.7" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="506.7" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 506.7 350.0)"/>
+              <line x1="509.7" y1="358.0" x2="509.7" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="506.7" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 506.7 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:525.2px 358.0px; animation-delay:-1.89s;">
-              <line x1="525.2" y1="358.0" x2="525.2" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="522.2" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 522.2 350.0)"/>
+              <line x1="525.2" y1="358.0" x2="525.2" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="522.2" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 522.2 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:540.7px 358.0px; animation-delay:-2.08s;">
-              <line x1="540.7" y1="358.0" x2="540.7" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="537.7" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 537.7 350.0)"/>
+              <line x1="540.7" y1="358.0" x2="540.7" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="537.7" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 537.7 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:556.2px 358.0px; animation-delay:-2.27s;">
-              <line x1="556.2" y1="358.0" x2="556.2" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="553.2" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 553.2 350.0)"/>
+              <line x1="556.2" y1="358.0" x2="556.2" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="553.2" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 553.2 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:571.7px 358.0px; animation-delay:-2.46s;">
-              <line x1="571.7" y1="358.0" x2="571.7" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="568.7" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 568.7 350.0)"/>
+              <line x1="571.7" y1="358.0" x2="571.7" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="568.7" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 568.7 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:587.2px 358.0px; animation-delay:-2.65s;">
-              <line x1="587.2" y1="358.0" x2="587.2" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="584.2" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 584.2 350.0)"/>
+              <line x1="587.2" y1="358.0" x2="587.2" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="584.2" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 584.2 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:602.6px 358.0px; animation-delay:-2.84s;">
-              <line x1="602.6" y1="358.0" x2="602.6" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="599.6" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 599.6 350.0)"/>
+              <line x1="602.6" y1="358.0" x2="602.6" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="599.6" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 599.6 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:618.1px 358.0px; animation-delay:-3.03s;">
-              <line x1="618.1" y1="358.0" x2="618.1" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="615.1" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 615.1 350.0)"/>
+              <line x1="618.1" y1="358.0" x2="618.1" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="615.1" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 615.1 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:633.6px 358.0px; animation-delay:-3.22s;">
-              <line x1="633.6" y1="358.0" x2="633.6" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="630.6" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 630.6 350.0)"/>
+              <line x1="633.6" y1="358.0" x2="633.6" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="630.6" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 630.6 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:649.1px 358.0px; animation-delay:-3.41s;">
-              <line x1="649.1" y1="358.0" x2="649.1" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="646.1" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 646.1 350.0)"/>
+              <line x1="649.1" y1="358.0" x2="649.1" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="646.1" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 646.1 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:664.6px 358.0px; animation-delay:-3.6s;">
-              <line x1="664.6" y1="358.0" x2="664.6" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="661.6" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 661.6 350.0)"/>
+              <line x1="664.6" y1="358.0" x2="664.6" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="661.6" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 661.6 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:680.1px 358.0px; animation-delay:-3.79s;">
-              <line x1="680.1" y1="358.0" x2="680.1" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="677.1" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 677.1 350.0)"/>
+              <line x1="680.1" y1="358.0" x2="680.1" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="677.1" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 677.1 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:695.6px 358.0px; animation-delay:-3.98s;">
-              <line x1="695.6" y1="358.0" x2="695.6" y2="259.0" stroke="#74c69d" stroke-width="3" stroke-linecap="round"/>
-              <ellipse cx="690.1" cy="323.35" rx="6" ry="2.5" fill="#74c69d" transform="rotate(-35 690.1 323.35)"/>
-              <ellipse cx="701.1" cy="298.6" rx="6" ry="2.5" fill="#74c69d" transform="rotate(35 701.1 298.6)"/>
-              <ellipse cx="691.1" cy="278.8" rx="5" ry="2.2" fill="#74c69d" transform="rotate(-25 691.1 278.8)"/>
-              <circle cx="695.6" cy="259.0" r="7.800000000000001" fill="#e63946" opacity="0.25"/>
-              <circle cx="695.6" cy="259.0" r="5.2" fill="#e63946"/>
+              <line x1="695.6" y1="358.0" x2="695.6" y2="259.0" stroke="#2d6a4f" stroke-width="3" stroke-linecap="round"/>
+              <ellipse cx="690.1" cy="323.35" rx="6" ry="2.5" fill="#2d6a4f" transform="rotate(-35 690.1 323.35)"/>
+              <ellipse cx="701.1" cy="298.6" rx="6" ry="2.5" fill="#2d6a4f" transform="rotate(35 701.1 298.6)"/>
+              <ellipse cx="691.1" cy="278.8" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(-25 691.1 278.8)"/>
+              <circle cx="695.6" cy="259.0" r="7.800000000000001" fill="#52b788" opacity="0.25"/>
+              <circle cx="695.6" cy="259.0" r="5.2" fill="#52b788"/>
               <circle cx="695.6" cy="259.0" r="2.08" fill="#ffffff"/>
             </g>
             <g class="sway" style="transform-origin:711.1px 358.0px; animation-delay:-0.17s;">
-              <line x1="711.1" y1="358.0" x2="711.1" y2="248.0" stroke="#74c69d" stroke-width="3" stroke-linecap="round"/>
-              <ellipse cx="705.6" cy="319.5" rx="6" ry="2.5" fill="#74c69d" transform="rotate(-35 705.6 319.5)"/>
-              <ellipse cx="716.6" cy="292.0" rx="6" ry="2.5" fill="#74c69d" transform="rotate(35 716.6 292.0)"/>
-              <ellipse cx="706.6" cy="270.0" rx="5" ry="2.2" fill="#74c69d" transform="rotate(-25 706.6 270.0)"/>
-              <circle cx="711.1" cy="248.0" r="10.2" fill="#e63946" opacity="0.25"/>
-              <circle cx="711.1" cy="248.0" r="6.8" fill="#e63946"/>
+              <line x1="711.1" y1="358.0" x2="711.1" y2="248.0" stroke="#2d6a4f" stroke-width="3" stroke-linecap="round"/>
+              <ellipse cx="705.6" cy="319.5" rx="6" ry="2.5" fill="#2d6a4f" transform="rotate(-35 705.6 319.5)"/>
+              <ellipse cx="716.6" cy="292.0" rx="6" ry="2.5" fill="#2d6a4f" transform="rotate(35 716.6 292.0)"/>
+              <ellipse cx="706.6" cy="270.0" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(-25 706.6 270.0)"/>
+              <circle cx="711.1" cy="248.0" r="10.2" fill="#52b788" opacity="0.25"/>
+              <circle cx="711.1" cy="248.0" r="6.8" fill="#52b788"/>
               <circle cx="711.1" cy="248.0" r="2.72" fill="#ffffff"/>
             </g>
             <g class="sway" style="transform-origin:726.6px 358.0px; animation-delay:-0.36s;">
-              <line x1="726.6" y1="358.0" x2="726.6" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="723.6" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 723.6 350.0)"/>
+              <line x1="726.6" y1="358.0" x2="726.6" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="723.6" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 723.6 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:742.1px 358.0px; animation-delay:-0.55s;">
-              <line x1="742.1" y1="358.0" x2="742.1" y2="342.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="739.1" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 739.1 350.0)"/>
+              <line x1="742.1" y1="358.0" x2="742.1" y2="342.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="739.1" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 739.1 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:757.5px 358.0px; animation-delay:-0.74s;">
-              <line x1="757.5" y1="358.0" x2="757.5" y2="339.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="754.5" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 754.5 350.0)"/>
+              <line x1="757.5" y1="358.0" x2="757.5" y2="339.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="754.5" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 754.5 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:773.0px 358.0px; animation-delay:-0.93s;">
-              <line x1="773.0" y1="358.0" x2="773.0" y2="337.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="770.0" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 770.0 350.0)"/>
+              <line x1="773.0" y1="358.0" x2="773.0" y2="337.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="770.0" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 770.0 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:788.5px 358.0px; animation-delay:-1.12s;">
-              <line x1="788.5" y1="358.0" x2="788.5" y2="334.5" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="785.5" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 785.5 350.0)"/>
+              <line x1="788.5" y1="358.0" x2="788.5" y2="334.5" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="785.5" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 785.5 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:804.0px 358.0px; animation-delay:-1.31s;">
-              <line x1="804.0" y1="358.0" x2="804.0" y2="332.0" stroke="#74c69d" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
-              <ellipse cx="801.0" cy="350.0" rx="3.5" ry="1.6" fill="#74c69d" opacity="0.5" transform="rotate(-30 801.0 350.0)"/>
+              <line x1="804.0" y1="358.0" x2="804.0" y2="332.0" stroke="#2d6a4f" stroke-width="2.2" stroke-linecap="round" opacity="0.6"/>
+              <ellipse cx="801.0" cy="350.0" rx="3.5" ry="1.6" fill="#2d6a4f" opacity="0.5" transform="rotate(-30 801.0 350.0)"/>
             </g>
             <g class="sway" style="transform-origin:819.5px 358.0px; animation-delay:-1.5s;">
-              <line x1="819.5" y1="358.0" x2="819.5" y2="296.0" stroke="#74c69d" stroke-width="2.6" stroke-linecap="round"/>
-              <ellipse cx="815.0" cy="330.1" rx="5" ry="2.2" fill="#74c69d" transform="rotate(-32 815.0 330.1)"/>
-              <ellipse cx="824.0" cy="314.6" rx="5" ry="2.2" fill="#74c69d" transform="rotate(32 824.0 314.6)"/>
-              <circle cx="819.5" cy="296.0" r="2.8" fill="#e63946"/>
+              <line x1="819.5" y1="358.0" x2="819.5" y2="296.0" stroke="#2d6a4f" stroke-width="2.6" stroke-linecap="round"/>
+              <ellipse cx="815.0" cy="330.1" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(-32 815.0 330.1)"/>
+              <ellipse cx="824.0" cy="314.6" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(32 824.0 314.6)"/>
+              <circle cx="819.5" cy="296.0" r="2.8" fill="#52b788"/>
             </g>
             <g class="sway" style="transform-origin:835.0px 358.0px; animation-delay:-1.69s;">
-              <line x1="835.0" y1="358.0" x2="835.0" y2="296.0" stroke="#74c69d" stroke-width="2.6" stroke-linecap="round"/>
-              <ellipse cx="830.5" cy="330.1" rx="5" ry="2.2" fill="#74c69d" transform="rotate(-32 830.5 330.1)"/>
-              <ellipse cx="839.5" cy="314.6" rx="5" ry="2.2" fill="#74c69d" transform="rotate(32 839.5 314.6)"/>
-              <circle cx="835.0" cy="296.0" r="2.8" fill="#e63946"/>
+              <line x1="835.0" y1="358.0" x2="835.0" y2="296.0" stroke="#2d6a4f" stroke-width="2.6" stroke-linecap="round"/>
+              <ellipse cx="830.5" cy="330.1" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(-32 830.5 330.1)"/>
+              <ellipse cx="839.5" cy="314.6" rx="5" ry="2.2" fill="#2d6a4f" transform="rotate(32 839.5 314.6)"/>
+              <circle cx="835.0" cy="296.0" r="2.8" fill="#52b788"/>
             </g>
     </g>
 
@@ -372,7 +373,7 @@
     <g transform="translate(24, 22)">
       <rect width="365" height="28" rx="14" fill="rgba(0,0,0,0.45)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
       <circle cx="15" cy="14" r="4.5" fill="#10b981" class="glow"/>
-      <text x="28" y="18" class="hud-text">BENGALURU, IN · 25°C · OVERCAST · 11:06 AM</text>
+      <text x="28" y="18" class="hud-text">BENGALURU, IN · 21°C · OVERCAST · 11:25 PM</text>
     </g>
 
     <!-- Top Right Live Status Pill -->
